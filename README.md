@@ -1,1 +1,1 @@
-# vue-express-authentication-example
+# authentication-example
